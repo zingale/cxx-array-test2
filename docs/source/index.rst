@@ -12,6 +12,11 @@ Welcome to C++ Array's documentation!
 
    using
 
+.. toctree::
+   :maxdepth: 1
+   :caption: API
+
+   doxygen_files
 
 Indices and tables
 ==================
